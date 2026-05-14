@@ -1,0 +1,8 @@
+interface:
+  display_name: "Idea Vault"
+  short_description: "把零散想法沉淀成可碰撞的想法卡"
+  brand_color: "#6B8E6E"
+  default_prompt: "Use $idea-vault to turn this raw thought into an idea card and prepare it for my vault."
+
+policy:
+  allow_implicit_invocation: true
